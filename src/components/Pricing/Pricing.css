@@ -1,0 +1,67 @@
+.pricing {
+    background-color: var(--bg-color);
+    padding: 40px;
+    border-radius: 20px;
+    color: var(--text-color);
+    max-width: 800px;
+    margin: 20px auto;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease;
+}
+
+.pricing:hover{
+    transform: scale(1.05);
+}
+
+.pricing h2 {
+    margin-top: 0;
+    color: var(--head-color);
+}
+
+.pricing p {
+    line-height: 1.6;
+    color: var(--text-color);
+}
+
+.pricing table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.pricing table,
+th,
+td {
+    border: 1px solid #000000;
+}
+
+.pricing th,
+td {
+    padding: 10px;
+    text-align: left;
+}
+
+.tableHead{
+    font-size: 20px;
+}
+
+.pricing th {
+    background-color: var(--accent-color);
+    color: var(--head-color);
+}
+
+.token,
+.bill {
+    margin-top: 20px;
+}
+
+.token h3,
+.bill h3 {
+    color: var(--head-color);
+}
+
+.token p,
+.bill p {
+    color: var(--text-color);
+}
+
