@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Rsaluja02/bookai-assingment/static/css/main.9e28b43a.css",
-    "main.js": "/Rsaluja02/bookai-assingment/static/js/main.5943a677.js",
-    "static/js/453.a97fc940.chunk.js": "/Rsaluja02/bookai-assingment/static/js/453.a97fc940.chunk.js",
-    "static/media/Sun.svg": "/Rsaluja02/bookai-assingment/static/media/Sun.681607dcda2a01539a9a8a157ae74e6e.svg",
-    "static/media/Moon.svg": "/Rsaluja02/bookai-assingment/static/media/Moon.0a6a2b75ac51157455302ddcfca385c0.svg",
-    "index.html": "/Rsaluja02/bookai-assingment/index.html",
-    "main.9e28b43a.css.map": "/Rsaluja02/bookai-assingment/static/css/main.9e28b43a.css.map",
-    "main.5943a677.js.map": "/Rsaluja02/bookai-assingment/static/js/main.5943a677.js.map",
-    "453.a97fc940.chunk.js.map": "/Rsaluja02/bookai-assingment/static/js/453.a97fc940.chunk.js.map"
+    "main.css": "/bookai-assingment/static/css/main.9e28b43a.css",
+    "main.js": "/bookai-assingment/static/js/main.74d5278a.js",
+    "static/js/453.a97fc940.chunk.js": "/bookai-assingment/static/js/453.a97fc940.chunk.js",
+    "static/media/Sun.svg": "/bookai-assingment/static/media/Sun.681607dcda2a01539a9a8a157ae74e6e.svg",
+    "static/media/Moon.svg": "/bookai-assingment/static/media/Moon.0a6a2b75ac51157455302ddcfca385c0.svg",
+    "index.html": "/bookai-assingment/index.html",
+    "main.9e28b43a.css.map": "/bookai-assingment/static/css/main.9e28b43a.css.map",
+    "main.74d5278a.js.map": "/bookai-assingment/static/js/main.74d5278a.js.map",
+    "453.a97fc940.chunk.js.map": "/bookai-assingment/static/js/453.a97fc940.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e28b43a.css",
-    "static/js/main.5943a677.js"
+    "static/js/main.74d5278a.js"
   ]
 }
